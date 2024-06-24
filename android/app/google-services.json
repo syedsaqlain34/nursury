@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "713448305491",
+    "project_id": "e-nursury",
+    "storage_bucket": "e-nursury.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713448305491:android:9211d0f1ca8a8b73eee7a6",
+        "android_client_info": {
+          "package_name": "com.example.e_nursury"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVyY_cDxg2YRSoMcAxo4uw4q0whdZPk-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
